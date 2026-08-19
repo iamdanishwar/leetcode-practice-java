@@ -9,3 +9,15 @@ This repository is for tracking my daily progress in mastering Data Structures, 
 ## 🔗You can Connect with Me via Linkedin and Leetcode
 - Leetcode : https://leetcode.com/u/danishWarr/
 - LinkedIn : https://www.linkedin.com/in/danish-war-ramani-661073421/
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## String
+|  |
+| ------- |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/iamdanishwar/leetcode-practice-java/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+## Stack
+|  |
+| ------- |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/iamdanishwar/leetcode-practice-java/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+<!---LeetCode Topics End-->
