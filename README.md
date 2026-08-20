@@ -19,5 +19,14 @@ This repository is for tracking my daily progress in mastering Data Structures, 
 ## Stack
 |  |
 | ------- |
+| [0739-daily-temperatures](https://github.com/iamdanishwar/leetcode-practice-java/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/iamdanishwar/leetcode-practice-java/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+## Array
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/iamdanishwar/leetcode-practice-java/tree/master/0739-daily-temperatures) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/iamdanishwar/leetcode-practice-java/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
