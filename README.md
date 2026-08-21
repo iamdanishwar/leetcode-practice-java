@@ -25,8 +25,13 @@ This repository is for tracking my daily progress in mastering Data Structures, 
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/iamdanishwar/leetcode-practice-java/tree/master/0739-daily-temperatures) |
+| [1046-last-stone-weight](https://github.com/iamdanishwar/leetcode-practice-java/tree/master/1046-last-stone-weight) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/iamdanishwar/leetcode-practice-java/tree/master/0739-daily-temperatures) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1046-last-stone-weight](https://github.com/iamdanishwar/leetcode-practice-java/tree/master/1046-last-stone-weight) |
 <!---LeetCode Topics End-->
