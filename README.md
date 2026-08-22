@@ -34,4 +34,8 @@ This repository is for tracking my daily progress in mastering Data Structures, 
 |  |
 | ------- |
 | [1046-last-stone-weight](https://github.com/iamdanishwar/leetcode-practice-java/tree/master/1046-last-stone-weight) |
+## Math
+|  |
+| ------- |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/iamdanishwar/leetcode-practice-java/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 <!---LeetCode Topics End-->
