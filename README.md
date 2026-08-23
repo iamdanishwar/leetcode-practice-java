@@ -16,6 +16,7 @@ This repository is for tracking my daily progress in mastering Data Structures, 
 |  |
 | ------- |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/iamdanishwar/leetcode-practice-java/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1927-sum-game](https://github.com/iamdanishwar/leetcode-practice-java/tree/master/1927-sum-game) |
 ## Stack
 |  |
 | ------- |
@@ -37,5 +38,14 @@ This repository is for tracking my daily progress in mastering Data Structures, 
 ## Math
 |  |
 | ------- |
+| [1927-sum-game](https://github.com/iamdanishwar/leetcode-practice-java/tree/master/1927-sum-game) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/iamdanishwar/leetcode-practice-java/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+## Greedy
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/iamdanishwar/leetcode-practice-java/tree/master/1927-sum-game) |
+## Game Theory
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/iamdanishwar/leetcode-practice-java/tree/master/1927-sum-game) |
 <!---LeetCode Topics End-->
