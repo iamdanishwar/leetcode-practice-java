@@ -15,11 +15,13 @@ This repository is for tracking my daily progress in mastering Data Structures, 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/iamdanishwar/leetcode-practice-java/tree/master/0020-valid-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/iamdanishwar/leetcode-practice-java/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1927-sum-game](https://github.com/iamdanishwar/leetcode-practice-java/tree/master/1927-sum-game) |
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/iamdanishwar/leetcode-practice-java/tree/master/0020-valid-parentheses) |
 | [0739-daily-temperatures](https://github.com/iamdanishwar/leetcode-practice-java/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/iamdanishwar/leetcode-practice-java/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Array
@@ -48,4 +50,8 @@ This repository is for tracking my daily progress in mastering Data Structures, 
 |  |
 | ------- |
 | [1927-sum-game](https://github.com/iamdanishwar/leetcode-practice-java/tree/master/1927-sum-game) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/iamdanishwar/leetcode-practice-java/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
