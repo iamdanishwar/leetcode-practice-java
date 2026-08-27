@@ -27,6 +27,7 @@ This repository is for tracking my daily progress in mastering Data Structures, 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/iamdanishwar/leetcode-practice-java/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0739-daily-temperatures](https://github.com/iamdanishwar/leetcode-practice-java/tree/master/0739-daily-temperatures) |
 | [1046-last-stone-weight](https://github.com/iamdanishwar/leetcode-practice-java/tree/master/1046-last-stone-weight) |
 ## Monotonic Stack
@@ -67,4 +68,8 @@ This repository is for tracking my daily progress in mastering Data Structures, 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/iamdanishwar/leetcode-practice-java/tree/master/0509-fibonacci-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/iamdanishwar/leetcode-practice-java/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
