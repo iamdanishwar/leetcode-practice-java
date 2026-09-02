@@ -28,6 +28,7 @@ This repository is for tracking my daily progress in mastering Data Structures, 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/iamdanishwar/leetcode-practice-java/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0189-rotate-array](https://github.com/iamdanishwar/leetcode-practice-java/tree/master/0189-rotate-array) |
 | [0739-daily-temperatures](https://github.com/iamdanishwar/leetcode-practice-java/tree/master/0739-daily-temperatures) |
 | [1046-last-stone-weight](https://github.com/iamdanishwar/leetcode-practice-java/tree/master/1046-last-stone-weight) |
 ## Monotonic Stack
@@ -41,6 +42,7 @@ This repository is for tracking my daily progress in mastering Data Structures, 
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/iamdanishwar/leetcode-practice-java/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/iamdanishwar/leetcode-practice-java/tree/master/0509-fibonacci-number) |
 | [1927-sum-game](https://github.com/iamdanishwar/leetcode-practice-java/tree/master/1927-sum-game) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/iamdanishwar/leetcode-practice-java/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -72,4 +74,5 @@ This repository is for tracking my daily progress in mastering Data Structures, 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/iamdanishwar/leetcode-practice-java/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0189-rotate-array](https://github.com/iamdanishwar/leetcode-practice-java/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
