@@ -31,6 +31,7 @@ This repository is for tracking my daily progress in mastering Data Structures, 
 | [0189-rotate-array](https://github.com/iamdanishwar/leetcode-practice-java/tree/master/0189-rotate-array) |
 | [0739-daily-temperatures](https://github.com/iamdanishwar/leetcode-practice-java/tree/master/0739-daily-temperatures) |
 | [1046-last-stone-weight](https://github.com/iamdanishwar/leetcode-practice-java/tree/master/1046-last-stone-weight) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/iamdanishwar/leetcode-practice-java/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Monotonic Stack
 |  |
 | ------- |
