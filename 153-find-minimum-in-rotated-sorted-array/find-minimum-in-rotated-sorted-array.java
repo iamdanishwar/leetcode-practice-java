@@ -3,7 +3,6 @@ class Solution {
         int n = nums.length;
         int high = n-1;
         int low = 0;
-        int target = 0;
         int mid = 0;
 
         if (nums.length == 1 || nums[0] < nums[nums.length - 1]) {
