@@ -7,8 +7,8 @@ class Solution {
 
         int ans = 1;
         
-        for (int i = 1; i <= x / i; i++) {
-            ans = i;
+        for (long i = 1; i * i <= x; i++) {
+            ans = (int) i;
         }
         return ans;
     }
